@@ -11,5 +11,5 @@ The primary objective of this project is to develop a sophisticated autonomous r
 * Neural Network Decision Making: A neural network architecture processes LiDAR data to make instantaneous decisions regarding vehicle speed, steering, and maneuvering, ensuring the vehicle follows the optimal racing line and avoids collisions.
 * Real-time Performance Evaluation: Our system provides real-time monitoring of lap times, vehicle position, and other performance metrics, allowing users to assess the effectiveness of the autonomous racing algorithms and make necessary adjustments for optimization.
 
-[![Learning process](https://drive.google.com/file/d/1LM4swQw5MVwdM_OmyDwrS0ZMYzKrh5ZO/view?usp=drive_link)]
+[![Learning process](https://drive.google.com/file/d/1LM4swQw5MVwdM_OmyDwrS0ZMYzKrh5ZO/view?usp=sharing)]
 [![Best car with LiDAR on](https://drive.google.com/file/d/1I3fvv5NgbNeY34BsLonrbTZNmd56p1kM/view?usp=drive_link)]
